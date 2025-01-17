@@ -75,9 +75,11 @@ Dependencies:
 ### Plots:
 
 1. **Exact Solution:**
-   ![Exact Solution](plots/exact_solution.png)
+   <img width="373" alt="Screenshot 2025-01-16 at 8 11 13 PM" src="https://github.com/user-attachments/assets/4e73d7c4-6396-43cb-8f61-597be633041c" />
+
 2. **Error Distribution:**
-   ![Error Distribution](plots/error_distribution.png)
+ <img width="362" alt="Screenshot 2025-01-16 at 8 11 21 PM" src="https://github.com/user-attachments/assets/394f198c-51f2-4402-8f8a-1f7b788bc42a" />
+
 
 ### Numerical Values:
 
